@@ -16,7 +16,7 @@ public class Test {
 		System.out.println();
 		System.out.println("Adresa este :" + im1.getAdresa());
 		
-		
+		System.out.println();
 	}
 
 }
