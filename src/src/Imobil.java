@@ -12,7 +12,7 @@ public class Imobil {
 	public Imobil() 
 	{		
 		adresa = "";
-		pret = 0.0;
+		pret = 1.0;
 		nrCamere = 0;
 		comfort = 0;
 	}
